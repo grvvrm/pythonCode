@@ -1,4 +1,4 @@
-its a emi calculator for flat(flat) and reducing balance method(rbm)
+its a emi calculator for flat(flat) and reducing balance method(rbm) for
 reference
 https://www.gopaysense.com/blog/money-management/personal-loan/interest-rate-calculator-for-calculating-emi-simple-or-compound-interest/
 
